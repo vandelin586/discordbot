@@ -1,0 +1,6 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	ignorecase = true
+[remote "origin"]
+	url = git@github.com:vandelin586/discordbot.git
